@@ -8,11 +8,13 @@
 - Announcement
 - All Books - also pagination
 - Recomands Books
+url : 27.0.0.1:8000/
 <p align="center"><img src="https://github.com/NakulDeb/Online-Book-Store/blob/master/public/describeImage/home.png" width="100%"></p>
 
 <br>
 
 ## Show by Category Name
+url :http://127.0.0.1:8000/show-product-by-category/20
 <p align="center"><img src="https://github.com/NakulDeb/Online-Book-Store/blob/master/public/describeImage/Show_by_Category.png" width="100%"></p>
 
 
