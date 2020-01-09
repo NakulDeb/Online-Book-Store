@@ -23,28 +23,24 @@
 <br>
 
 ## User Login & SignUp page
-<p align="center"><img src="https://github.com/NakulDeb/Online-Book-Store/blob/master/public/describeImage/user_login_and_signup_page.png
-" width="100%"></p>
+<p align="center"><img src="https://github.com/NakulDeb/Online-Book-Store/blob/master/public/describeImage/user_login_and_signup_page.png" width="100%"></p>
 
+<br>
 
-
-
-
-<p align="center"><img src="https://github.com/NakulDeb/Online-Book-Store/blob/master/public/describeImage/user_account_setting_page.png
-" width="100%"></p>
 ## User Account Setting Page
+<p align="center"><img src="https://github.com/NakulDeb/Online-Book-Store/blob/master/public/describeImage/user_account_setting_page.png" width="100%"></p>
 
+<br>
 
-
-
-<p align="center"><img src="https://github.com/NakulDeb/Online-Book-Store/blob/master/public/describeImage/user_profile_page.png
-" width="100%"></p>
 ## User Profile Page
+<p align="center"><img src="https://github.com/NakulDeb/Online-Book-Store/blob/master/public/describeImage/user_profile_page.png" width="100%"></p>
 
+<br>
 
-<p align="center"><img src="https://github.com/NakulDeb/Online-Book-Store/blob/master/public/describeImage/edit_category.png
-" width="100%"></p>
 ## Contact Page
+<p align="center"><img src="https://github.com/NakulDeb/Online-Book-Store/blob/master/public/describeImage/contact_page.png" width="100%"></p>
+
+<h2>Backend</h2>
 
 
 
