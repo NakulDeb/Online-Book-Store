@@ -1,3 +1,4 @@
+# ![Laravel Example App](logo.png)
 ## Online Book Store E-Commarce project using Laravel
 
 
