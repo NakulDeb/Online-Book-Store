@@ -1,4 +1,4 @@
-## Online Book Stor E-Commarce project using Laravel
+## Online Book Store E-Commarce project using Laravel
 
 
 <h1>Frontend</h1>
