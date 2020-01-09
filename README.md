@@ -4,7 +4,6 @@
 ## Frontend :
 <p align="center"><img src="https://github.com/NakulDeb/Online-Book-Store/blob/master/public/describeImage/home.png" width="100%"></p>
 ## hes is the Home Page 
-The Home Page contains :
 
 - All Category
 - Announcement
