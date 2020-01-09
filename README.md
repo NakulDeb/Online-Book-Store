@@ -3,7 +3,8 @@
 
 ## Frontend :
 <p align="center"><img src="https://github.com/NakulDeb/Online-Book-Store/blob/master/public/describeImage/home.png" width="100%"></p>
-## Home Page
+## Frontend :
+<p align="center"><img src="https://github.com/NakulDeb/Online-Book-Store/blob/master/public/describeImage/home.png" width="100%"></p>
 
 - All Category
 - Announcement
