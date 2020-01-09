@@ -132,6 +132,6 @@ URL : http://127.0.0.1:8000/add-announcement
 - Edit Announcement
 - Delete Announcement <br>
 URL : http://127.0.0.1:8000/all-announcement
-<p align="center"><img src="https://github.com/NakulDeb/Online-Book-Store/blob/master/public/describeImage/all_product.png" width="100%"></p>
+<p align="center"><img src="https://github.com/NakulDeb/Online-Book-Store/blob/master/public/describeImage/all_announcement.png" width="100%"></p>
 
 
