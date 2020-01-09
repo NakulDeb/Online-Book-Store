@@ -3,13 +3,12 @@
 
 <h1>Frontend</h1>
 
-## Home Page : URL : 27.0.0.1:8000/
+## Home Page : 
 - All Category
 - Announcement
 - All Books - also pagination
-- Recomands Books
-
-
+- Recomands Books<br>
+URL : http://127.0.0.1:8000/
 <p align="center"><img src="https://github.com/NakulDeb/Online-Book-Store/blob/master/public/describeImage/home.png" width="100%"></p>
 
 <br>
@@ -38,7 +37,7 @@ URL : http://127.0.0.1:8000/view-details/26
 <br>
 
 ## User Login & SignUp page
-URL : 127.0.0.1:8000/user-login
+URL : http://127.0.0.1:8000/user-login
 <p align="center"><img src="https://github.com/NakulDeb/Online-Book-Store/blob/master/public/describeImage/user_login_and_signup_page.png" width="100%"></p>
 
 <br>
