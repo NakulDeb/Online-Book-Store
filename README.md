@@ -1,7 +1,7 @@
 ## Online Book Stor E-Commarce project using Laravel
 
 
-## Frontend :
+<h1>Frontend</h1>
 
 ## Home Page :
 - All Category
@@ -40,7 +40,23 @@
 ## Contact Page
 <p align="center"><img src="https://github.com/NakulDeb/Online-Book-Store/blob/master/public/describeImage/contact_page.png" width="100%"></p>
 
+
+<br>
+<br>
+<br>
 <h1>Backend</h1>
+## Admin Login Page
+<p align="center"><img src="https://github.com/NakulDeb/Online-Book-Store/blob/master/public/describeImage/admin_login_page.png" width="100%"></p>
+
+<br>
+
+## Admin Deshbord
+<p align="center"><img src="https://github.com/NakulDeb/Online-Book-Store/blob/master/public/describeImage/admin_deshboard.png" width="100%"></p>
+
+<br>
+
+## Admin Deshbord
+<p align="center"><img src="https://github.com/NakulDeb/Online-Book-Store/blob/master/public/describeImage/All_category.png" width="100%"></p>
 
 
 
