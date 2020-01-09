@@ -10,7 +10,7 @@
 - Recomands Books
 <p align="center"><img src="https://github.com/NakulDeb/Online-Book-Store/blob/master/public/describeImage/home.png" width="100%"></p>
 
-
+<br>
 
 ## Recomands Books
 <p align="center"><img src="https://github.com/NakulDeb/Online-Book-Store/blob/master/public/describeImage/Recommended_books.png" width="100%"></p>
@@ -20,11 +20,12 @@
 ## Announcement 
 <p align="center"><img src="https://github.com/NakulDeb/Online-Book-Store/blob/master/public/describeImage/announcement_page.png" width="100%"></p>
 
+<br>
 
-
+## User Login & SignUp page
 <p align="center"><img src="https://github.com/NakulDeb/Online-Book-Store/blob/master/public/describeImage/user_login_and_signup_page.png
 " width="100%"></p>
-## User Login & SignUp page
+
 
 
 
