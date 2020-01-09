@@ -1,4 +1,7 @@
-<p align="center"><img src="https://github.com/NakulDeb/Online-Book-Store/blob/master/public/frontend/images/bg.jpg" width="100%"></p>
+## Online Book Stor E-Commarce project using Laravel
+
+<p align="center"><img src="https://github.com/NakulDeb/Online-Book-Store/blob/master/public/describeImage/home.png" width="100%"></p>
+<p>Thes is the Home Page <br> The Home Page contains :</p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
