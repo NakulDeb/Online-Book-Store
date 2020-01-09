@@ -3,7 +3,7 @@
 
 <h1>Frontend</h1>
 
-## Home Page : url : 27.0.0.1:8000/
+## Home Page : URL : 27.0.0.1:8000/
 - All Category
 - Announcement
 - All Books - also pagination
@@ -15,13 +15,14 @@
 <br>
 
 ## Show by Category Name
-url :http://127.0.0.1:8000/show-product-by-category/20
+URL :http://127.0.0.1:8000/show-product-by-category/20
 <p align="center"><img src="https://github.com/NakulDeb/Online-Book-Store/blob/master/public/describeImage/Show_by_Category.png" width="100%"></p>
 
 
 <br>
 
 ## View Details
+URL : http://127.0.0.1:8000/view-details/26
 <p align="center"><img src="https://github.com/NakulDeb/Online-Book-Store/blob/master/public/describeImage/view_details.png" width="100%"></p>
 
 <br>
