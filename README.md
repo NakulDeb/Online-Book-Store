@@ -1,7 +1,7 @@
 ## Online Book Store E-Commarce project using Laravel
 
 
-<h1>****************************Frontend**********************************</h1>
+<h1>---------------Frontend---------------</h1>
 
 ## Home Page : 
 - All Category
@@ -61,7 +61,7 @@ URL : http://127.0.0.1:8000/contact
 <br>
 <br>
 <br>
-<h1>Backend</h1>
+<h1>---------------Backend---------------</h1>
 <br>
 
 ## Admin Login Page
