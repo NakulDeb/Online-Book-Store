@@ -5,8 +5,7 @@
 <p align="center"><img src="https://github.com/NakulDeb/Online-Book-Store/blob/master/public/describeImage/home.png" width="100%"></p>
 
 
-## Frontend :
-<p align="center"><img src="https://github.com/NakulDeb/Online-Book-Store/blob/master/public/describeImage/home.png" width="100%"></p>
+## Home Page :
 
 - All Category
 - Announcement
@@ -15,10 +14,14 @@
 
 <p align="center"><img src="https://github.com/NakulDeb/Online-Book-Store/blob/master/public/describeImage/Recommended_books.png
 " width="100%"></p>
+
+
 ## Recomands Books
 
 <p align="center"><img src="https://github.com/NakulDeb/Online-Book-Store/blob/master/public/describeImage/announcement_page.png
 " width="100%"></p>
+
+
 ## Announcement 
 
 
