@@ -1,14 +1,50 @@
 ## Online Book Stor E-Commarce project using Laravel
 
+
+## Frontend :
 <p align="center"><img src="https://github.com/NakulDeb/Online-Book-Store/blob/master/public/describeImage/home.png" width="100%"></p>
-<p>Thes is the Home Page <br> The Home Page contains :</p>
+## hes is the Home Page 
+The Home Page contains :
 
 - All Category
 - Announcement
 - All Books - also pagination
 - Recomands Books
 
-## About Laravel
+<p align="center"><img src="https://github.com/NakulDeb/Online-Book-Store/blob/master/public/describeImage/Recommended_books.png
+" width="100%"></p>
+## Recomands Books
+
+<p align="center"><img src="https://github.com/NakulDeb/Online-Book-Store/blob/master/public/describeImage/announcement_page.png
+" width="100%"></p>
+## Announcement 
+
+
+<p align="center"><img src="https://github.com/NakulDeb/Online-Book-Store/blob/master/public/describeImage/user_login_and_signup_page.png
+" width="100%"></p>
+## User Login & SignUp page
+
+
+
+
+<p align="center"><img src="https://github.com/NakulDeb/Online-Book-Store/blob/master/public/describeImage/user_account_setting_page.png
+" width="100%"></p>
+## User Account Setting Page
+
+
+
+
+<p align="center"><img src="https://github.com/NakulDeb/Online-Book-Store/blob/master/public/describeImage/user_profile_page.png
+" width="100%"></p>
+## User Profile Page
+
+
+<p align="center"><img src="https://github.com/NakulDeb/Online-Book-Store/blob/master/public/describeImage/edit_category.png
+" width="100%"></p>
+## Contact Page
+
+
+
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
