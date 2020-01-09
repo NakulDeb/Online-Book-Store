@@ -3,8 +3,8 @@
 <p align="center"><img src="https://github.com/NakulDeb/Online-Book-Store/blob/master/public/describeImage/home.png" width="100%"></p>
 <p>Thes is the Home Page <br> The Home Page contains :</p>
 
--[All Category]
--[Announcement]
+[All Category]
+[Announcement]
 -[All Books - also pagination]
 -[Recomands Books]
 
