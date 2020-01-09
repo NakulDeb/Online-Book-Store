@@ -3,12 +3,13 @@
 
 <h1>Frontend</h1>
 
-## Home Page :
+## Home Page : url : 27.0.0.1:8000/
 - All Category
 - Announcement
 - All Books - also pagination
 - Recomands Books
-url : 27.0.0.1:8000/
+
+
 <p align="center"><img src="https://github.com/NakulDeb/Online-Book-Store/blob/master/public/describeImage/home.png" width="100%"></p>
 
 <br>
