@@ -1,7 +1,7 @@
 ## Online Book Store E-Commarce project using Laravel
 
 
-<h1>Frontend</h1>
+<h1>****************************Frontend**********************************</h1>
 
 ## Home Page : 
 - All Category
