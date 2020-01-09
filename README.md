@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/NakulDeb/Online-Book-Store/blob/master/public/frontend/images/bg.jpg" width="90%"></p>
+<p align="center"><img src="https://github.com/NakulDeb/Online-Book-Store/blob/master/public/frontend/images/bg.jpg" width="100%"></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
