@@ -19,7 +19,7 @@
 <br>
 
 ## View Details
-<p align="center"><img src="https://github.com/NakulDeb/Online-Book-Store/blob/master/public/describeImage/ 	view_details.png" width="100%"></p>
+<p align="center"><img src="https://github.com/NakulDeb/Online-Book-Store/blob/master/public/describeImage/view_details.png" width="100%"></p>
 
 <br>
 
@@ -64,6 +64,11 @@
 <br>
 
 ## Admin Deshbord
+- User First Name
+- User Last Name
+- User Phone
+- User Address
+- And Delete User
 <p align="center"><img src="https://github.com/NakulDeb/Online-Book-Store/blob/master/public/describeImage/admin_deshboard.png" width="100%"></p>
 
 <br>
