@@ -40,7 +40,7 @@
 ## Contact Page
 <p align="center"><img src="https://github.com/NakulDeb/Online-Book-Store/blob/master/public/describeImage/contact_page.png" width="100%"></p>
 
-<h2>Backend</h2>
+<h1>Backend</h1>
 
 
 
